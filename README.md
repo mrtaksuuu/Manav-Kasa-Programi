@@ -1,2 +1,2 @@
 # Manav-Kasa-Programi
-[www.patika.dev](www.patika.dev)
+[www.patika.dev](https://www.patika.dev/tr)
